@@ -75,3 +75,8 @@ git remote add origin https://github.com/AllesJoe/learn
 git push 
 第一次会报错，使用报错的提示
 之后可以使用
+
+
+## 如何clone
+把远端仓库导入
+git clone https://github.com/AllesJoe/learn.git
