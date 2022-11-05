@@ -67,3 +67,11 @@ git commit -m
 暂存区到版本库
 ## 查看版本信息
 git log
+
+
+
+## 添加远端仓库并提交
+git remote add origin https://github.com/AllesJoe/learn
+git push 
+第一次会报错，使用报错的提示
+之后可以使用
