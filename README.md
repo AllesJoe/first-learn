@@ -50,33 +50,5 @@ github地址： [https://github.com/AllesJoe](https://github.com/AllesJoe)
 | 40 | electron |  |  |
 
 
-# git命令
-## 初始化
-git init
-创建代码仓库
-## 查看状态
-git status
-## 将文件加入暂存区 *
-git add [filename]
-工作区到暂存区
-## 配置文件
-git config --global user.name [name]
-git config --global user.email [email]
-## 更新版本 *
-git commit -m
-暂存区到版本库
-## 查看版本信息
-git log
-
-
-
-## 添加远端仓库并提交
-git remote add origin https://github.com/AllesJoe/learn
-git push 
-第一次会报错，使用报错的提示
-之后可以使用
-
-
-## 如何clone
-把远端仓库导入
-git clone https://github.com/AllesJoe/learn.git
+## 语雀知识库
+地址：https://www.yuque.com/allesjoe/vz8ciw?# 《学习笔记》
